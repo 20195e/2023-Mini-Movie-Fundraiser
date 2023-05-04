@@ -8,3 +8,4 @@ if ans == "Yes" or "yes":
 
 elif ans == "No" or "no":
   print ("\n\naight cuh")
+print ("hello")
